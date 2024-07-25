@@ -29,7 +29,7 @@ National Science and Technology Progress Award (2011)
 Email: pimak_at_umac.mo  
 University Page: [https://www.fst.um.edu.mo/people/pimak/](https://www.fst.um.edu.mo/people/pimak/)
 
-![图片alt](1.jpg)
+![图片1](https://github.com/qixinw/elvispimak.github.io/blob/master/images/1.png)
 
 **Pui-In Mak (Elvis)** was born in **Macau** ('79), and raised there with his early education in Escola de Santa Teresa and Instituto Salesiano. He received the B.Sc. (’03) and Ph.D. (’06) degrees from the **University of Macau** (UM), where he is currently **Full Professor** at the Faculty of Science and Technology (FST) - Electrical and Computer Engineering (ECE); **Director** at the **State-Key Laboratory of Analog and Mixed-Signal VLSI**, and **Deputy Director (Research)** at the **Institute of Microelectronics**. He was a **Clare-Hall Visiting Fellow** ('09) of the **University of Cambridge**, UK. His research focuses are on circuits and systems for wireless and multidisciplinary innovations. He has advised/is advising **60+ graduate students** and **20+ researchers** (RA/post-doc).  
 
