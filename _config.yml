@@ -24,11 +24,11 @@ author:
   avatar           : "/images/0.jpg"
   name             : "Pui-In Mak (Elvis)"
   pronouns         : # example: "she/her"  
-#  bio              : "Short biography for the left-hand sidebar"
-#  location         : "Earth"
-#  employer         : "Red Brick University"
-#  uri              : https://qixinw.github.io/elvispimak.github.io/
-#  email            : "none@example.org" 
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : #"Earth"
+  employer         : #"Red Brick University"
+  uri              : https://qixinw.github.io/elvispimak.github.io/
+  email            : #"none@example.org" 
 
  
 
