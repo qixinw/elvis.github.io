@@ -20,7 +20,7 @@ National Science and Technology Progress Award (2011)
 **Full Professor**  
 [<u>Faculty of Science & Technology - ECE</u>](https://www.fst.um.edu.mo/ece/), [<u>University of Macau</u>](https://www.um.edu.mo/) (UM), Macau, China 
  
-**Director**  
+ **Director**  
 [<u>State-Key Laboratory of Analog & Mixed-Signal VLSI</u>](https://ime.um.edu.mo/), UM, Macau, China  
 **Deputy Director (Research)**  
 [<u>Institute of Microelectronics</u>](https://ime.um.edu.mo/), UM, Macau, China  
@@ -28,9 +28,9 @@ National Science and Technology Progress Award (2011)
 [<u>DigiFluidic Biotech Ltd</u>](https://www.digifluidic.com/), China
 
 Email: pimak_at_umac.mo  
-University Page: [<u>https://www.fst.um.edu.mo/people/pimak/</u>](https://www.fst.um.edu.mo/people/pimak/)
+University Page: [https://www.fst.um.edu.mo/people/pimak/](https://www.fst.um.edu.mo/people/pimak/)
 
-![图片alt](图片链接 "图片title")
+![图片alt](./images.1.png)
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
