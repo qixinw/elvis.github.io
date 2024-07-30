@@ -1,12 +1,7 @@
 ---
-title: "Awards"
 collection: awards
 permalink: /awards/
-excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-07-30
-venue: 'GitHub Journal of Bugs'
-paperurl: 
-citation: 
 ---
 
 * **SSCS Predoctoral Achievement Award (Haijun Shao)**
@@ -157,16 +152,8 @@ citation:
 
   Awarded by: 5th IEEE International Conference on ASIC, 2003
 
-<span style="font-size: 24px !important;">National and Local</span>
-This is some regular text.
 
 <span style="font-size: 24px !important;">National and Local</span>
-
-This is more regular text.
-
-Or, using a CSS class:
-
-<span class="large-font">National and Local</span>
 
 * **2022 Macao Science and Technology Invention Award (2nd Class)**
 
