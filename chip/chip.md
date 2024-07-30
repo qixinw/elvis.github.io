@@ -18,12 +18,12 @@ permalink: /chip/
 
 * **1 RFIC Student Paper Award**
 
-<img align="right" src="https://i-blog.csdnimg.cn/blog_migrate/70d082136b1d5d88b536286c1373ad7f.png"/>
-
-<img style="float: left; margin-left: 10px;" src="https://i-blog.csdnimg.cn/blog_migrate/70d082136b1d5d88b536286c1373ad7f.png" alt="Description"/>
 
 <div style="display: flex; align-items: center;">
-  <img style="float: left; margin-right: 10px;" src="https://i-blog.csdnimg.cn/blog_migrate/70d082136b1d5d88b536286c1373ad7f.png" alt="Description" width="150"/>
-  <p>This is the explanation text that will appear next to the image. You can adjust the width of the image and the text as needed.</p>
+  <img style="float: left; margin-right: 10px;" src="图片1-A 90.7-nW.png" alt="Description" width="150"/>
+  <p>A 90.7-nW Vibration-Based Condition Monitoring Chip Featuring a Digital Compute-in-Memory-Based DNN Accelerator Using an Ultra-Low-Power 13T-SRAM Cell  
+    Z. Zhang, W.-H. Yu, Z. Yang, K.-F. Un, J. Yin, R. P. Martins, P.-I. Mak  
+    [JSSC'24].
+  </p>
 </div>
 
