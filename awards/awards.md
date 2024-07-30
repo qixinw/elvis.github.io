@@ -1,7 +1,6 @@
 ---
 collection: awards
 permalink: /awards/
-date: 2024-07-30
 ---
 
 * **SSCS Predoctoral Achievement Award (Haijun Shao)**
