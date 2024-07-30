@@ -1,5 +1,4 @@
 ---
-layout: default
 collection: recognition
 permalink: /recognition/
 ---
