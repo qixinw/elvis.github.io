@@ -108,7 +108,7 @@ permalink: /chip/
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start;">
   <img style="margin-right: 10px;" src="图片9-A 1.8% FAR.png" alt="Description" width="350"/>
   <div style="margin: 0;">
     <p><strong>A 1.8% FAR, 2ms Decision Latency, 1.73nJ/Decision Keywords Spotting (KWS) Chip Incorporating Transfer-Computing Speaker Verification, Hybrid-Domain Computing and Scalable 5T-SRAM</strong></p>
