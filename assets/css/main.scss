@@ -46,8 +46,3 @@ nav ul li.active a {
   font-weight: bold; // 加粗字体
   color: #007BFF; // 选择一个高亮颜色
 }
-
-/* Hide author avatar on all pages except the home page */
-body:not(.home) .author__avatar {
-  display: none;
-}
