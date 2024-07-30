@@ -1,7 +1,7 @@
 ---
 title: "Recognition & Services"
-collection: publications
-permalink: /recognition/recognition
+collection: recognition
+permalink: /recognition/
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-07-30
 venue: 'GitHub Journal of Bugs'
