@@ -1,22 +1,47 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Recognition & Services"
+    url: /recognition/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Awards"
+    url: /awards/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Example Chip Projects"
+    url: /chip/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Multidisciplinary Projects"
+    url: /multidisciplinary/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Students"
+    url: /students/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Journal Papers"
+    url: /journal/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Conference Papers"
+    url: /conference/
+
+  - title: "Books/Book Chapters"
+    url: /books/
+  
+  - title: "Patents"
+    url: /patents/
+
+  - title: "Presentations"
+    url: /presentations/
+
+  - title: "Memories 2023 and 2024"
+    url: /memories20232024/
+
+  - title: "Memories 2022"
+    url: /memories2022/
+    
+  - title: "Memories 2020 and 2021"
+    url: /memories20202021/
+
+  - title: "Memories2019"
+    url: /memories2019/
+
+  - title: "Memories 2020 and Before"
+    url: /memories2018/
+  
