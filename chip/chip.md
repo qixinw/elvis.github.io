@@ -168,7 +168,7 @@ permalink: /chip/
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img style="margin-right: 10px;" src="图片14-A 0027mm.png" alt="Description" width="350"/>
   <div style="margin: 0;">
-    <p><strong>A 0.027mm&sup2 5.6-7.8GHz Ring-Oscillator-Based Ping-Pong Sampling PLL Scoring 220.3fsrms Jitter and −74.2dBc Reference Spur</strong></p>
+    <p><strong>A 0.027mm<sup>2</sup> 5.6-7.8GHz Ring-Oscillator-Based Ping-Pong Sampling PLL Scoring 220.3fsrms Jitter and −74.2dBc Reference Spur</strong></p>
     <p>Y. Huang, Y. Chen, Z. Yang, R. P. Martins, and P-I. Mak</p>
     <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
       <li>[ISSCC'24]</li>
@@ -189,9 +189,9 @@ permalink: /chip/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img style="margin-right: 10px;" src="图片16-A 0.07mm.png" alt="Description" width="350"/>
+  <img style="margin-right: 10px;" src="图片16-A 007mm.png" alt="Description" width="350"/>
   <div style="margin: 0;">
-    <p><strong>A 0.07mm&sup2 20-to-23.8GHz 8-phase Oscillator Incorporating Magnetic + Dual-Injection Coupling Achieving 189.2dBc/Hz FoM<sub>@10MHz</sub> and 200.7dBc/Hz FoM<sub>A</sub> in 65nm CMOS</strong></p>
+    <p><strong>A 0.07mm<sup>2</sup> 20-to-23.8GHz 8-phase Oscillator Incorporating Magnetic + Dual-Injection Coupling Achieving 189.2dBc/Hz FoM<sub>@10MHz</sub> and 200.7dBc/Hz FoM<sub>A</sub> in 65nm CMOS</strong></p>
     <p>Y. Zhao, C. Fan, Q. Fang, G. Zhang, J. Yin, P-I. Mak, L. Geng</p>
     <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
       <li>[ISSCC'24]</li>
@@ -237,7 +237,7 @@ permalink: /chip/
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img style="margin-right: 10px;" src="图片20-A 005mm.png" alt="Description" width="350"/>
   <div style="margin: 0;">
-    <p><strong>A 0.05-mm&sup2 2.91-nJ/Decision Keyword-Spotting (KWS) Chip Featuring an Always-Retention 5T-SRAM in 28-nm CMOS</strong></p>
+    <p><strong>A 0.05-mm<sup>2</sup> 2.91-nJ/Decision Keyword-Spotting (KWS) Chip Featuring an Always-Retention 5T-SRAM in 28-nm CMOS</strong></p>
     <p>F. Tan, W.-H. Yu, K.-F. Un, R.P. Martins, P.-I. Mak</p>
     <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
       <li>[JSSC'24]</li>
