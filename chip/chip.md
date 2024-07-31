@@ -118,3 +118,129 @@ permalink: /chip/
     </ul>
   </div>
 </div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片10-A Miniature.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A Miniature Multi-Nuclei NMR/MRI Platform with a High-Voltage SOI ASIC Achieving a 134.4dB Image SNR with a 173×250×103µm3 Resolution</strong></p>
+    <p>S. Fan, Q. Zhou, K.-M. Lei, R. P. Martins, P.-I. Mak</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'24]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片11-A 05V.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 0.5V 6.14μW Trimming-Free Single-XO Dual-Output Frequency Reference with [5.1nJ, 120μs] XO Startup and [8.1nJ, 200μs] Successive-Approximation-Based RTC Calibration</strong></p>
+    <p>R. Luo, K.-M. Lei, R. P. Martins, P.-I. Mak</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'24]</li>
+      <li>ISSCC Live Demo</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片12-A 12-28V.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 12-28V to 0.6-1.8V Ratio-Regulatable Dickson SC Converter with Dual-Mode Phase Misalignment Operations Achieving 93.1% Efficiency and 6A Output</strong></p>
+    <p>Q. Ma, Y. Jiang, H. Li, X. Zhang, M.-K. Law, R. P. Martins, P.-I. Mak</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'24]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片13-A 233-to-26GHz.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 23.2-to-26GHz Subsampling PLL Achieving 48.3fsrms Jitter, -253.5dB FoMJ, and 0.55μs-Locking-Time Based on Function-Reused VCO-Buffer and Type-I FLL with Rapid Phase Alignment</strong></p>
+    <p>H. Li, T. Xu, X. Meng, J. Yin, R. P. Martins, P. I. Mak</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'24]</li>
+      <li>[Invited JSSC'24]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片14-A 0027mm.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 0.027mm&sup2 5.6-7.8GHz Ring-Oscillator-Based Ping-Pong Sampling PLL Scoring 220.3fsrms Jitter and −74.2dBc Reference Spur</strong></p>
+    <p>Y. Huang, Y. Chen, Z. Yang, R. P. Martins, and P-I. Mak</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'24]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片15-A 28nm.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 28nm 72.12-TFLOPS/W Hybrid-Domain Outer-Product Based Floating-Point SRAM Computing-in-Memory Macro with Logarithm Bit-Width Folding ADC</strong></p>
+    <p>Y. Yuan, Y. Yang, X. Wang, X. Li, C. Ma, Q. Chen, M. Tang, X. Wei, Z. Hou, J. Zhu, H. Wu, Q. Ren, G. Xing, P-I. Mak, F. Zhang</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'24]</li>
+      <li>ISSCC Live Demo</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片16-A 0.07mm.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 0.07mm&sup2 20-to-23.8GHz 8-phase Oscillator Incorporating Magnetic + Dual-Injection Coupling Achieving 189.2dBc/Hz FoM<sub>@10MHz</sub> and 200.7dBc/Hz FoM<sub>A</sub> in 65nm CMOS</strong></p>
+    <p>Y. Zhao, C. Fan, Q. Fang, G. Zhang, J. Yin, P-I. Mak, L. Geng</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'24]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片17-An Outphase.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>An Outphase-Interleaved Switched-Capacitor Hybrid Buck Converter with Relieved Capacitor Inrush Current and C<sub>OUT</sub>-Free Operations</strong></p>
+    <p>X. Zhang, Q. Ma, A. Zhao, Y. Jiang, M.-K. Law, R. P. Martins, P.-I. Mak</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[VLSI'23]</li>
+      <li>[Invited JSSC'24]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片18-A 1024-Channel.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 1024-Channel 268 nW/pixel 36×36 µm2/channel Data-Compressive Neural Recording IC for High-Bandwidth Brain-Computer Interfaces</strong></p>
+    <p>M. Jang, M. Hays, W.-H. Yu, C. Lee, P. Caragiulo, A. Ramkaj, P. Wang, N. Vitale, P. Tandon, P. Yan, P.-I. Mak, Y. Chae, E.J. Chichilnisky, B. Murmann, and D. G. Muratore</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[VLSI'23]</li>
+      <li>[Invited JSSC'24]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片19-A 934.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 93.4% Peak Efficiency C<sub>LOAD</sub>-free Multi-Phase Switched-Capacitor DC-DC Converter Achieving a Fast DVS up to 222.5mV/ns</strong></p>
+    <p>F. Li, Q. Fang, J. Wu, Y. Jiang, P.-I. Mak, R. P. Martins, M.-K. Law</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[JSSC'24]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片20-A 005mm.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 0.05-mm&sup2 2.91-nJ/Decision Keyword-Spotting (KWS) Chip Featuring an Always-Retention 5T-SRAM in 28-nm CMOS</strong></p>
+    <p>F. Tan, W.-H. Yu, K.-F. Un, R.P. Martins, P.-I. Mak</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[JSSC'24]</li>
+    </ul>
+  </div>
+</div>
