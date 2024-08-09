@@ -14,7 +14,7 @@ redirect_from:
   <!-- 个人信息部分 -->
   <div class="profile-section" style="display: flex; align-items: flex-start;">
     <img class="profile-image" src="Elvis.png" alt="Profile Image" style="width: 300px; height: auto; border-radius: 5px; margin-right: 20px;">
-    <div class="profile-bio" style="flex-grow: 1; line-height: 1.2;">
+    <div class="profile-bio" style="flex-grow: 1; line-height: 0.8;">
       <p>IEEE Fellow | IET Fellow | RSC Fellow </p>
       <p>Foreign Academician, Academy of Sciences of Lisbon, Portugal</p>
       <p>Overseas Expert, Chinese Academy of Sciences</p>
