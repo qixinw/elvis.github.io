@@ -16,6 +16,12 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
+    {% if page.layout == 'home' %}
+      <div class="sidebar sticky">
+        {% include author-profile.html %}
+      </div>
+    {% endif %}
+    
     {{ content }}
 
     <div class="page__footer">
