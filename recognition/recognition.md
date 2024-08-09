@@ -1,6 +1,8 @@
 ---
 collection: recognition
 permalink: /recognition/
+layout: chip
+author_profile: false
 ---
 
 **Contribution to the Macau SAR Government and Community**
