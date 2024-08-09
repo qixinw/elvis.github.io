@@ -606,3 +606,151 @@ permalink: /chip/
     </ul>
   </div>
 </div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片53-A Handheld.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A Handheld High-Sensitivity Micro-NMR CMOS Platform with B-Field Stabilization for Multi-Type Biological/Chemical Assays</strong></p>
+    <p>K.-M. Lei, H. Heidari, P.-I. Mak, M.-K. Law, F. Maloberti and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'16] [Invited JSSC'17]</li>
+      <li>ISSCC Highlight Paper and Live Demo</li>
+      <li>ISSCC Silkroad Award</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片54-A 0038.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 0.038mm<sup>2</sup> SAW-less Multi-Band Transceiver Using an N-Path SC Gain Loop</strong></p>
+    <p>G. Qi, P.-I. Mak and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'16] [JSSC'17]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片55-A Time.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A Time-Interleaved Ring-VCO with Reduced 1/f<sup>3</sup> Phase Noise Corner, Extended Tuning Range and Inherent Divided Output</strong></p>
+    <p>J. Yin, P.-I. Mak, F. Maloberti and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'16] [Invited JSSC'16]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片56-A 0028.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 0.028mm<sup>2</sup> 11mW Single-Mixing Blocker-Tolerant Receiver with Double-RF N-Path Filtering, S<sub>11</sub> Centering, +13dBm OB-IIP3 and 1.5-to-2.9dB NF</strong></p>
+    <p>Z. Lin, P.-I. Mak and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'15]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片57-A 002.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 0.02-mm<sup>2</sup> 59.2-dB SFDR 4th-Order SC LPF with 0.5-to-10 MHz Bandwidth Scalability Exploiting a Recycling SC-Buffer Biquad</strong></p>
+    <p>Y. Zhao, P.-I. Mak, R. P. Martins and F. Maloberti</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[JSSC'15]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片58-A .png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A μNMR CMOS Transceiver Using a Butterfly-Coil Input for Integration with a Digital Microfluidic Device inside a Portable Magnet</strong></p>
+    <p>K.-M. Lei, P.-I. Mak, M.-K. Law and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[A-SSCC'15] [Invited JSSC'16]</li>
+      <li>A-SSCC Distinguished Design Award</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片59-An RF.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>An RF-to-BB-Current-Reuse Wideband Receiver with Parallel N-Path Active/ Passive Mixers and a Single-MOS Pole-Zero LPF</strong></p>
+    <p>F. Lin, P.-I. Mak and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'14] [JSSC'14]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片60-A Sub.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A Sub-GHz Multi-ISM-Band ZigBee Receiver Using Function-Reuse and Gain-Boosted N-Path Techniques for IoT Applications</strong></p>
+    <p>Z. Lin, P.-I. Mak and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'14] [Invited JSSC'14]</li>
+      <li>ISSCC Highlight Paper</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片61-Nested.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>Nested-Current-Mirror Rail-to-Rail-Output Single-Stage Amplifier with Enhancements of DC Gain, GBW and Slew Rate</strong></p>
+    <p>Z. Yan, P.-I. Mak, M.-K. Law, R. P. Martins and F. Maloberti</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'14] [JSSC'15]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片62-A 24.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 2.4-GHz ZigBee Receiver Exploiting an RF-to-BB-Current-Reuse Blixer + Hybrid Filter Topology in 65-nm CMOS</strong></p>
+    <p>Z. Lin, P.-I. Mak and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'13] [JSSC'14]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片63-A 53.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 53-to-75 mW, 59.3-dB HRR, TV-Band White-Space Transmitter Using a Low-Frequency Reference LO in 65-nm CMOS</strong></p>
+    <p>K-F. Un, P.-I. Mak and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[JSSC'13]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片64-A 0016.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 0.016mm<sup>2</sup> 144µW Three-Stage Amplifier Capable of Driving 1-to-15nF Capacitive Load with >0.95MHz GBW</strong></p>
+    <p>Z. Yan, P.-I. Mak, M.-K. Law and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'12] [JSSC'13]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片65-A 0046.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 0.46-mm<sup>2</sup> 4-dB NF Unified Receiver Front-End for Full-Band Mobile TV in 65-nm CMOS </strong></p>
+    <p>P.-I. Mak and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'11] [JSSC'11]</li>
+      <li>National Science & Technology Progress Award (2nd Class)</li>
+    </ul>
+  </div>
+</div>
