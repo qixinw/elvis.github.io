@@ -244,3 +244,62 @@ permalink: /chip/
     </ul>
   </div>
 </div>
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片21-A 04V 00294.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 0.4-V 0.0294-mm<sup>2</sup> Resistor-Based Temperature Sensor Achieving ±0.24 °C p2p Inaccuracy From −40 °C to 125 °C and 385 fJ·K<sup>2</sup> Resolution FoM in 65-nm CMOS</strong></p>
+    <p>D. Shi, K.-M. Lei, R.P. Martins, P.-I. Mak</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[JSSC'23]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片22-A 47nW.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 47nW Mixed-Signal Voice Activity Detector (VAD) Featuring a Non-Volatile Capacitor-ROM, a Short-Time CNN Feature Extractor and an RNN Classifier</strong></p>
+    <p>J. Lin, K.-F. Un, W.-H. Yu, P.-I. Mak, R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'23]</li>
+      <li>[Invited JSSC'23]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片23-An 833.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>An 83.3-to-104.7GHz Harmonic-Extraction VCO Incorporating Multi-resonance, Multi-core and Multi-mode (3M) Techniques Achieving -124dBc/Hz Absolute PN and 190.7dBc/Hz FOM<sub>T</sub></strong></p>
+    <p>H. Guo, Y. Chen, Y. Huang, P.-I. Mak, R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'23]</li>
+      <li>ISSCC Highlight Paper</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片24-A 224.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 22.4-to-26.8GHz Dual-Path-Synchronized Quad-Core Oscillator Achieving −138dBc/Hz PN and 193.3dBc/Hz FoM at 10MHz Offset from 25.8GHz</strong></p>
+    <p>X. Zhan, J. Yin, P.-I. Mak, R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'23]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片25-A 12:13.56MHz.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 12/13.56MHz Crystal Oscillator with Binary-Search-Assisted Two-Step Injection Achieving 5.0nJ Startup Energy and 45.8μs Startup Time</strong></p>
+    <p>H. Li, K.-M. Lei, P.-I. Mak, R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'23][JSSC'24]</li>
+      <li>ISSCC Live Demo</li>
+    </ul>
+  </div>
+</div>
