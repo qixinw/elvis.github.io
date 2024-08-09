@@ -1,6 +1,7 @@
 ---
 collection: chip
 permalink: /chip/
+author_profile: false
 ---
 * **49 JSSC Papers (20 are Invited Papers)**
 
