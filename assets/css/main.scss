@@ -47,3 +47,7 @@ nav ul li.active a {
   color: #007BFF; // 选择一个高亮颜色
 }
 
+.content {
+    max-width: 1200px;  /* 调整页面内容的最大宽度 */
+    width: 80%;         /* 设置内容占据的百分比 */
+}
