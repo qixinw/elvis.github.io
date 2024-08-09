@@ -1,0 +1,35 @@
+.home-layout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.profile-section {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  max-width: 1200px; /* 根据需要调整最大宽度 */
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.profile-image {
+  width: 30%; /* 根据需要调整 */
+  margin-right: 20px;
+}
+
+.profile-bio {
+  width: 70%; /* 根据需要调整 */
+}
+
+.full-width-image img,
+.full-width-text {
+  width: 100%;
+  margin: 20px 0;
+}
+
+.full-width-text {
+  padding: 20px;
+}
+
