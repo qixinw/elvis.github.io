@@ -646,7 +646,7 @@ author_profile: false
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img style="margin-right: 10px;" src="图片56-A 0028.png" alt="Description" width="350"/>
+  <img style="margin-right: 10px;" src="图片56-A 0028.jpeg" alt="Description" width="350"/>
   <div style="margin: 0;">
     <p><strong>A 0.028mm<sup>2</sup> 11mW Single-Mixing Blocker-Tolerant Receiver with Double-RF N-Path Filtering, S<sub>11</sub> Centering, +13dBm OB-IIP3 and 1.5-to-2.9dB NF</strong></p>
     <p>Z. Lin, P.-I. Mak and R. P. Martins</p>
@@ -668,7 +668,7 @@ author_profile: false
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img style="margin-right: 10px;" src="图片58-A .png" alt="Description" width="350"/>
+  <img style="margin-right: 10px;" src="图片58-A .jpeg" alt="Description" width="350"/>
   <div style="margin: 0;">
     <p><strong>A μNMR CMOS Transceiver Using a Butterfly-Coil Input for Integration with a Digital Microfluidic Device inside a Portable Magnet</strong></p>
     <p>K.-M. Lei, P.-I. Mak, M.-K. Law and R. P. Martins</p>
@@ -680,7 +680,7 @@ author_profile: false
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img style="margin-right: 10px;" src="图片59-An RF.png" alt="Description" width="350"/>
+  <img style="margin-right: 10px;" src="图片59-An RF.jpeg" alt="Description" width="350"/>
   <div style="margin: 0;">
     <p><strong>An RF-to-BB-Current-Reuse Wideband Receiver with Parallel N-Path Active/ Passive Mixers and a Single-MOS Pole-Zero LPF</strong></p>
     <p>F. Lin, P.-I. Mak and R. P. Martins</p>
@@ -691,7 +691,7 @@ author_profile: false
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img style="margin-right: 10px;" src="图片60-A Sub.png" alt="Description" width="350"/>
+  <img style="margin-right: 10px;" src="图片60-A Sub.jpeg" alt="Description" width="350"/>
   <div style="margin: 0;">
     <p><strong>A Sub-GHz Multi-ISM-Band ZigBee Receiver Using Function-Reuse and Gain-Boosted N-Path Techniques for IoT Applications</strong></p>
     <p>Z. Lin, P.-I. Mak and R. P. Martins</p>
@@ -703,7 +703,7 @@ author_profile: false
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img style="margin-right: 10px;" src="图片61-Nested.png" alt="Description" width="350"/>
+  <img style="margin-right: 10px;" src="图片61-Nested.jpeg" alt="Description" width="350"/>
   <div style="margin: 0;">
     <p><strong>Nested-Current-Mirror Rail-to-Rail-Output Single-Stage Amplifier with Enhancements of DC Gain, GBW and Slew Rate</strong></p>
     <p>Z. Yan, P.-I. Mak, M.-K. Law, R. P. Martins and F. Maloberti</p>
@@ -736,7 +736,7 @@ author_profile: false
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img style="margin-right: 10px;" src="图片64-A 0016.png" alt="Description" width="350"/>
+  <img style="margin-right: 10px;" src="图片64-A 0016.jpeg" alt="Description" width="350"/>
   <div style="margin: 0;">
     <p><strong>A 0.016mm<sup>2</sup> 144µW Three-Stage Amplifier Capable of Driving 1-to-15nF Capacitive Load with >0.95MHz GBW</strong></p>
     <p>Z. Yan, P.-I. Mak, M.-K. Law and R. P. Martins</p>
