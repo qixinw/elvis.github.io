@@ -1,4 +1,5 @@
 ---
+layout: chip
 collection: chip
 permalink: /chip/
 author_profile: false
