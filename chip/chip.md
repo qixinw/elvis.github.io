@@ -3,8 +3,6 @@ collection: chip
 permalink: /chip/
 author_profile: false
 ---
-<div class="content-wrapper">
-  <!-- 
 
 * **49 JSSC Papers (20 are Invited Papers)**
 
@@ -759,6 +757,3 @@ author_profile: false
   </div>
 </div>
 
--->
-
-</div>
