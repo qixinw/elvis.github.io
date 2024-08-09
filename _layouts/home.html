@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+    <link rel="stylesheet" href="{{ "/assets/css/home.css" | prepend: site.baseurl }}">
+  </head>
+  <body>
+    {% include masthead.html %}
+
+    <main>
+      {{ content }}
+    </main>
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+  </body>
+</html>
