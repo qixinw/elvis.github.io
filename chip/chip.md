@@ -293,7 +293,7 @@ permalink: /chip/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img style="margin-right: 10px;" src="图片25-A 12:13.56MHz.png" alt="Description" width="350"/>
+  <img style="margin-right: 10px;" src="图片25-A 12.png" alt="Description" width="350"/>
   <div style="margin: 0;">
     <p><strong>A 12/13.56MHz Crystal Oscillator with Binary-Search-Assisted Two-Step Injection Achieving 5.0nJ Startup Energy and 45.8μs Startup Time</strong></p>
     <p>H. Li, K.-M. Lei, P.-I. Mak, R. P. Martins</p>
@@ -303,3 +303,115 @@ permalink: /chip/
     </ul>
   </div>
 </div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片26-A ULP.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A ULP Long-Range Active-RF Tag with Automatic Antenna-Interface Calibration Achieving 20.5% TX Efficiency at -22dBm EIRP and -60.4dBm Sensitivity at 17.8nW RX Power</strong></p>
+    <p>Z. Yang, J. Yin, W.-H. Yu, H. Zhang, P.-I. Mak, R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'23][JSSC'24]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片27-A Miniaturized.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A Miniaturized 3D-MRI Scanner Featuring a HV-SOI CMOS ASIC and Achieving a 10×8×8 mm<sup>3</sup> Field-of-View</strong></p>
+    <p>S. Fan, Q. Zhou, K.-M. Lei, P.-I. Mak, R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[JSSC'23]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片28-An Arithmetic.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>An Arithmetic Progression Switched-Capacitor DC-DC Converter with Soft VCR Transitions Achieving 93.7% Peak Efficiency and 400 mA Output Current</strong></p>
+    <p>Y. Jiang, M.-K. Law, P.-I. Mak, R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[A-SSCC'21] [Invited JSSC'22]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片29-A 266uW.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 266µW Bluetooth Low-Energy (BLE) Receiver Featuring an N-Path Passive Balun-LNA and a Pipeline Down-Mixing BB-Extraction Scheme Achieving 77dB SFDR and -3dBm OOB-B<sub>-1dB</sub></strong></p>
+    <p>H. Shao, P.-I. Mak, G. Qi, and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'22] [Invited JSSC'22]</li>
+      <li>ISSCC Highlight Paper</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片30-A 108nW.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 108nW 0.8mm<sup>2</sup> Analog Voice Activity Detector (VAD) Featuring a Time-Domain CNN as a Programmable Feature Extractor and a Sparsity-Aware Computational Scheme in 28nm CMOS</strong></p>
+    <p>F. Chen, K.-F. Un, W.-H. Yu, P.-I. Mak, and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'22] [Invited JSSC'22]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片31-A Sub-025.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A Sub-0.25pJ/bit 47.6-to-58.8Gb/s Reference-Less FD-Less Single-Loop PAM-4 Bang-Bang CDR with a Deliberate-Current-Mismatch Frequency Acquisition Technique in 28nm CMOS</strong></p>
+    <p>X. Zhao, Y. Chen, L. Wang, P.-I. Mak, F. Maloberti and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[RFIC'21] [RFIC'21 Student Paper Award] [Invited JSSC'22]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片32-A 1736.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 1.7-3.6-GHz 20-MHz-Bandwidth Channel-Selection N-Path Passive-LNA Achieving 23.5dBm OB-IIP3 and 3.4-4.8dB NF</strong></p>
+    <p>H. Shao, G. Qi, P.-I. Mak and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[JSSC'22]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片33-A 00285.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 0.0285-mm<sup>2</sup> 0.68-pJ/bit Single-Loop Full-Rate Bang-Bang CDR without Reference and Separate FD Pulling off an 8.2-(Gb/s)/µs Acquisition Speed of PAM-4 Input in 28-nm CMOS</strong></p>
+    <p>X. Zhao, Y. Chen, P.-I. Mak, and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[CICC'20] [JSSC'22]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片34-A 035-V.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 0.35-V 5,200-µm<sup>2</sup> 2.1-MHz Temperature-Resilient Relaxation Oscillator with 667fJ/cycle Energy Efficiency Using an Asymmetric Swing-Boosted RC Network and a Dual-Path Comparator</strong></p>
+    <p>K-M. Lei, P.-I. Mak, R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[JSSC'21]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片35-A 50.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 5.0-to-6.36GHz Wideband-Harmonic-Shaping VCO Achieving 196.9dBc/Hz Peak FoM and 90-to-180kHz 1/f<sup>3</sup> PN Corner Without Harmonic Tuning</strong></p>
+    <p>H. Guo, Y. Chen, P.-I. Mak, R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'21]</li>
+    </ul>
+  </div>
+</div>
+
