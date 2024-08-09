@@ -37,7 +37,7 @@ redirect_from:
 
 <!-- 全宽图片 -->
 <div class="full-width-image">
-  <img src="path/to/full-width-image.jpg" alt="Full Width Image">
+  <img src="1.png" alt="Full Width Image">
 </div>
 
 <!-- 全宽文本内容 -->
