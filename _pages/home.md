@@ -15,10 +15,10 @@ redirect_from:
   <div class="profile-section" style="display: flex; align-items: flex-start;">
     <img class="profile-image" src="Elvis.png" alt="Profile Image" style="width: 300px; height: auto; border-radius: 5px; margin-right: 20px;">
     <div class="profile-bio" style="flex-grow: 1; line-height: 1.0;">
-      <p style="margin-bottom: 0 0 1px 0;">IEEE Fellow | IET Fellow | RSC Fellow </p>
-      <p style="margin-bottom: 0 0 1px 0;">Foreign Academician, Academy of Sciences of Lisbon, Portugal</p>
-      <p style="margin-bottom: 0 0 1px 0;">Overseas Expert, Chinese Academy of Sciences</p>
-      <p style="margin-bottom: 0 0 1px 0;">Visiting Chair Professorship, Chinese Ministry of Education</p>
+      <p style="margin-bottom: 1px;">IEEE Fellow | IET Fellow | RSC Fellow </p>
+      <p style="margin-bottom: 1px;">Foreign Academician, Academy of Sciences of Lisbon, Portugal</p>
+      <p style="margin-bottom: 1px;">Overseas Expert, Chinese Academy of Sciences</p>
+      <p style="margin-bottom: 1px;">Visiting Chair Professorship, Chinese Ministry of Education</p>
       <br>
       <p>Editor-in-Chief, IEEE Solid-State Circuits Letters (2024-2026)</p>
       <p>ISSCC 70th Anniversary Top Contributing Authors (2023)</p>
