@@ -1,6 +1,8 @@
 ---
 collection: awards
 permalink: /awards/
+layout: chip
+author_profile: false
 ---
 
 * **SSCS Predoctoral Achievement Award (Haijun Shao)**
