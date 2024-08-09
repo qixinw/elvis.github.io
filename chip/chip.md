@@ -3,6 +3,9 @@ collection: chip
 permalink: /chip/
 author_profile: false
 ---
+<div class="content-wrapper">
+  <!-- 
+
 * **49 JSSC Papers (20 are Invited Papers)**
 
 * **39 ISSCC Papers (10 are Highlight Papers, 5 Live Demos)**
@@ -754,4 +757,8 @@ author_profile: false
       <li>National Science & Technology Progress Award (2nd Class)</li>
     </ul>
   </div>
+</div>
+
+-->
+
 </div>
