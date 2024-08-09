@@ -383,7 +383,7 @@ permalink: /chip/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img style="margin-right: 10px;" src="图片33-A 00285.png" alt="Description" width="350"/>
+  <img style="margin-right: 10px;" src="图片33-A 00285-mm.png" alt="Description" width="350"/>
   <div style="margin: 0;">
     <p><strong>A 0.0285-mm<sup>2</sup> 0.68-pJ/bit Single-Loop Full-Rate Bang-Bang CDR without Reference and Separate FD Pulling off an 8.2-(Gb/s)/µs Acquisition Speed of PAM-4 Input in 28-nm CMOS</strong></p>
     <p>X. Zhao, Y. Chen, P.-I. Mak, and R. P. Martins</p>
@@ -415,3 +415,194 @@ permalink: /chip/
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片36-A Single-Pin.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A Single-Pin Antenna Interface RF Front-End using a Single-MOS DCO-PA and a Push-Pull LNA</strong></p>
+    <p>K. Xu, J. Yin, P.-I. Mak, R. B. Staszewski, R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[A-SSCC'18] [JSSC'20]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片37-A 1427.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 1.4-to-2.7GHz FDD SAW-less Transmitter for 5G-NR Using a BW-Extended N-Path Filter-Modulator, an Isolated-BB Input and a Wideband TIA-Based PA Driver Achieving <-157.5dBc/Hz OB Noise</strong></p>
+    <p>G. Qi, H. Shao, P.-I. Mak, J. Yin, R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'20] [Invited JSSC'20]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片38-A 9mW.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 9mW 54.9-to-63.5GHz Current-Reuse LO Generator with a 186.7dBc/Hz-FoM by Unifying a 20GHz 3<sup>rd</sup>-Harmonic-Rich Current-Output VCO, a Harmonic-Current Filter and a 60GHz TIA</strong></p>
+    <p>C. Fan, J. Yin, C.-C. Lim, P.-I. Mak, R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'20]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片39-Algebraic.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>Algebraic Series-Parallel-Based Switched-Capacitor DC–DC Boost Converter With Wide Input Voltage Range and Enhanced Power Density</strong></p>
+    <p>Y. Jiang, M.-K. Law, Z. Chen, P.-I. Mak, R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[JSSC'19]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片40-A Piezoelectric.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A Piezoelectric Energy-Harvesting Interface using Split-Phase Flipping-Capacitor Rectifier (FCR) and Capacitor Reuse Multiple-VCR SC DC-DC Achieving 9.3x Energy-Extraction Improvement</strong></p>
+    <p>Z. Chen, Y. Jiang, M.-K. Law, P.-I. Mak, X. Zeng, R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'19] [JSSC'20]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片41-A 254.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 25.4-to-29.5GHz 10.2mW Isolated-Sub-Sampling PLL (iSS-PLL) Achieving -252.9dB Jitter-power FOM and -63dBc Reference Spur</strong></p>
+    <p>Z. Yang, Y. Chen, S. Yang, P.-I. Mak and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'19]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片42-A 008mm.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 0.08mm<sup>2</sup> 25.5-to-29.9GHz Multi-Resonant-RLCM-Tank VCO Using a Single-Turn Multi-Tap Inductor and CM-Only Capacitors Achieving 191.6-dBc/Hz FOM and 130kHz 1/f<sup>3</sup> PN Corner</strong></p>
+    <p>H. Guo, Y. Chen, P.-I. Mak and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'19]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片43-Low-Phase-Noise.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>Low-Phase-Noise Wideband Mode-Switching Quad-Core-Coupled mm-Wave VCO using a Single-Center-Tapped Switched Inductor</strong></p>
+    <p>Y. Peng, J. Yin, P.-I. Mak and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'18]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片44-A 02V.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 0.2V Energy-Harvesting BLE Transmitter with a Micropower Manager Achieving 25% System Efficiency at 0dBm Output and 5.2nW Sleep Power in 28nm CMOS</strong></p>
+    <p>J. Yin, S. Yang, H. Yi, W.-H. Yu , P.-I. Mak and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'18] [JSSC'19]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片45-A 022.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 0.22-to-2.4V-Input Fine-Grained Fully Integrated Rational Buck-Boost SC DC-DC Converter Using Algorithmic Voltage-Feed-In (AVFI) Topology Achieving 84.1% Peak Efficiency at 13.2mW/mm<sup>2</sup></strong></p>
+    <p>Y. Jiang, M.-K. Law, P.-I. Mak and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'18]  [Invited JSSC'18]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片46-A Regulation-Free.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A Regulation-Free Sub-0.5V 16/24MHz Crystal Oscillator for Energy-Harvesting BLE Radios with 14.2nJ Startup Energy and 31.8µW Steady-State Power</strong></p>
+    <p>K.-M. Lei, P.-I. Mak, M.-K. Law and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'18] [JSSC'18]</li>
+      <li>ISSCC Live Demo</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片47-A 00056mm.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 0.0056mm<sup>2</sup> All-Digital MDLL Using Edge Re-Extraction, Dual-Ring VCOs and a 0.3mW Block-Sharing Frequency Tracking Loop Achieving 292fsrms Jitter and -249dB FOM</strong></p>
+    <p>S. Yang, J. Yin, P.-I. Mak and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'18] [Invited JSSC'19]</li>
+      <li>ISSCC Highlight Paper</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片48-An Inverse.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>An Inverse-Class-F CMOS VCO with Intrinsic-High-Q 1st- and 2nd-Harmonic Resonances for 1/f<sup>2</sup>-to-1/f<sup>3</sup> Phase-Noise Suppression Achieving 196.2dBc/Hz FOM</strong></p>
+    <p>C.-C. Lim, J. Yin, P.-I. Mak, H. Ramiah and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'18] [Invited JSSC'18]</li>
+      <li>ISSCC Highlight Paper</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片49-A SAW-Less.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A SAW-Less Tunable RF Front-End for FDD and IBFD Combining an Electrical-Balance Duplexer and a Switched-LC N-Path LNA </strong></p>
+    <p>G. Qi, B. v. Liempd, P.-I. Mak, R. P. Martins and J. Craninckx</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[JSSC'18]</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片50-A 018V.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 0.18V 382µW Bluetooth Low-Energy (BLE) Receiver Front-End with 1.33nW Sleep Power for Energy-Harvesting Applications in 28nm CMOS </strong></p>
+    <p>H. Yi, W.-H. Yu , P.-I. Mak, J. Yin and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'17] [JSSC'18]</li>
+      <li>ISSCC Highlight Paper</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片51-Fully-Integrated.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>Fully-Integrated Inductor-less Flipping-Capacitor Rectifier (FCR) for Piezoelectric Energy Harvesting</strong></p>
+    <p>Z. Chen, M.-K. Law, P.-I. Mak, W.-H. Ki  and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[ISSCC'17] [Invited JSSC'17]</li>
+      <li>ISSCC Highlight Paper</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img style="margin-right: 10px;" src="图片52-A 24-GHz.png" alt="Description" width="350"/>
+  <div style="margin: 0;">
+    <p><strong>A 2.4-GHz ZigBee Transmitter Using a Function-Reuse Class-F DCO-PA and an ADPLL Achieving 22.6% (14.5%) System Efficiency at 6-dBm (0-dBm) P<sub>out</sub></strong></p>
+    <p>X. Peng, J. Yin, P.-I. Mak, W.-H. Yu and R. P. Martins</p>
+    <ul style="list-style-type: disc; margin: 0; padding-left: 20px;">
+      <li>[JSSC'17] </li>
+    </ul>
+  </div>
+</div>
