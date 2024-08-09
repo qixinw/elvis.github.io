@@ -48,6 +48,10 @@ nav ul li.active a {
 }
 
 .content {
-    max-width: 1200px;  /* 调整页面内容的最大宽度 */
-    width: 80%;         /* 设置内容占据的百分比 */
+    max-width: 1500px;  /* 调整页面内容的最大宽度 */
+    width: 90%;         /* 设置内容占据的百分比 */
+}
+
+.sidebar {
+    width: 500px;  /* 增加侧边栏的宽度 */
 }
