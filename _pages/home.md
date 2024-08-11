@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Pui-In Mak (Elvis) 麦沛然"
+title: "Home"
 author_profile: false
 permalink: /
 redirect_from: 
