@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- 个人信息部分 -->
 <div class="profile-section">
-  <img class="profile-image" src="Elvis.jpg" alt="Profile Image">
+  <img class="profile-image" src="Elvis.png" alt="Profile Image">
   <div class="profile-bio">
     <p>IEEE Fellow | IET Fellow | RSC Fellow </p>
     <p>Foreign Academician, Academy of Sciences of Lisbon, Portugal</p>
